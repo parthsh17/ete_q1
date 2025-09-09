@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import axios from "axios";
-import BreedCard from "./components/breedcard";
+import BreedCard from "./components/BreedCard";
 
 
 function App() {
